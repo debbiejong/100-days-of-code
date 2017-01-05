@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 3, 2017 
-##### (delete me or comment me out)
 
 **Today's Progress**:  Spent time figuring out how GitHub works. Used CodePen to start first Free Code Camp Front End Certification Project using HTML & CSS.
 
@@ -9,3 +8,13 @@
 
 **Link to work:** [Free Code Camp Front End Project 1](https://codepen.io/surrealstardust/pen/ygLELP)
 
+### Day 2: January 4, 2017 
+
+**Today's Progress**:  Completed first Free Code Camp Front End Development Project, "Build a Tribute Page," using HTML & CSS. [Extra Credit: worked on online tutorials on Codeacademy during my breaks at work!]
+
+**Thoughts:** I need to find a better time to code - trying to code in the evenings with my family around, who haven't seen me all day and keep barging in interrupting me, is very distracting. I aim to shift my hour of code from after dinner (~6-7pm) to either later in the evening (~10-11pm when everyone has gone to bed and can't bother me, or even better, ~5-6am before work when definitely no one else is awake). I do feel accomplished, finally coding on my own now. Before, I would always just wait for instructions instead of actively thinking on my own, "how do I do this?" "how can this be solved?" Definitely starting to exercise parts of my coding brain I haven't used yet. 
+
+**Links to work:** [Sample Build a Tribute Page](http://codepen.io/surrealstardust/pen/YNPpwo) - completed
+  [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - in progress 
+                  
+                   
