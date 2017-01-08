@@ -19,8 +19,24 @@
                   
 ### Day 3: January 5, 2017 
 
-**Today's Progress**:  Worked on "Build a Tribute Page," using HTML & CSS. [Extra Credit: worked on online tutorials on Codeacademy during my breaks at work]
+**Today's Progress**:  Worked on "Build a Personal Portfolio Project," using HTML & CSS. [Extra Credit: worked on online tutorials on Codeacademy during my breaks at work]
 
 **Thoughts:** Struggled with some concepts, since I decided to dive into this coding challenge without a complete Front End Development background. I Googled many of the questions I had, like how to make the text go on the left side and the image on the right while over a background, but the solutions didn't work for my project. Felt more "stumped/stuck" today - this is the first time I'm encountering problems that I can't find direct answers for. Didn't progress much in my project since I kept trying out different methods, but will continue tomorrow!
 
 **Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - in progress 
+
+### Day 4: January 6, 2017 
+
+**Today's Progress**:  Continued working on "Build a Personal Portoflio," using HTML & CSS. [Extra Credit: continued working on online tutorials on Codeacademy during my breaks at work to supplement my knowledge]
+
+**Thoughts:** Struggled a lot today and almost felt like giving up on the challenge. I felt that maybe I was being too ambitious, trying to do these projects before finishing all my online tutorials and being equipped with all the knowledge needed to complete these projects. But when I saw the words of encouragement on comments from complete strangers to my discouraged post on Twitter, I felt cheered and motivated to continue. After all, doing is the best way of learning. 
+
+**Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - in progress 
+
+### Day 5: January 7, 2017 
+
+**Today's Progress**:  Continued plowing through the "Personal Portfolio" project. [Extra Credit: finished the "Learn ReactJS: Part 1" course on Codeacademy today! That marks the 18th free course I have finished on Codeacademy =) My goal is to complete all of the available courses on the Codeacademy catalog by the end of January - I only have 5 more courses to complete!]
+
+**Thoughts:** I'm glad the comments and encouragement from strangers boosted my morale to continue my challenge. Alone and struggling, I had the thought of "What's the point? No one cares if I do/finish this or not." But having an invisible but present community of strangers who cheer me on and want me to succeed made me feel a lot better, that I wasn't in this alone. I'm finally understanding why people say that coding is better done in groups and with other people. It can be a lonely process and struggle without a community of like-minded people. To be honest, I'm a bit frustrated and embarrassed by my slow progress on the Personal Portfolio project - but I'll just keep going at it at my own pace, until I figure out the parts that are stumping me.
+
+**Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - still in progress
