@@ -40,3 +40,35 @@
 **Thoughts:** I'm glad the comments and encouragement from strangers boosted my morale to continue my challenge. Alone and struggling, I had the thought of "What's the point? No one cares if I do/finish this or not." But having an invisible but present community of strangers who cheer me on and want me to succeed made me feel a lot better, that I wasn't in this alone. I'm finally understanding why people say that coding is better done in groups and with other people. It can be a lonely process and struggle without a community of like-minded people. To be honest, I'm a bit frustrated and embarrassed by my slow progress on the Personal Portfolio project - but I'll just keep going at it at my own pace, until I figure out the parts that are stumping me.
 
 **Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - still in progress
+
+### Day 6: January 8, 2017 
+
+**Today's Progress**:  started my 19th class on Codeacademy & continued chipping away at the formidable Personal Portfolio Project.
+
+**Thoughts:** Encouraged by the kind words from strangers on my Twitter account! I feel grateful for the anonymous support.
+
+**Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - still in progress
+
+### Day 7: January 9, 2017 
+
+**Today's Progress**:  exhausted from long day at work but managed to squeeze in some HTML & CSS brush-up to help me with my project.
+
+**Thoughts:** It seems silly but today and yesterday I felt less motivated to code because I hadn't gotten any comments, likes, or re-tweets on my daily update tweet. For some reason with the lack of encouragement from others, I felt less motivated to work hard.
+
+**Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - still in progress
+
+### Day 8: January 10, 2017 
+
+**Today's Progress**:  pre-bedtime coding on Codeacademy brushing up on my HTML & CSS foundations.
+
+**Thoughts:** These past few days I've been pretty tired from work and life, and barely manage to squeeze in some time for coding before sleeping. I also need to majorly clean up my desk/work space so I can focus in an uncluttered environment.
+
+**Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - still in progress
+
+### Day 9: January 11, 2017 
+
+**Today's Progress**:  Continued brushing up on my HTML/CSS foundations on Codeacademy during my lunch break to build a better foundation for my projects.
+
+**Thoughts:** Some things I came across during the lessons I had forgotten, and was able to apply to my Personal Portfolio Project to fix some small issues I had been struggling with.
+
+**Link to work:** [Sample Build a Personal Portfolio Webpage](http://codepen.io/surrealstardust/pen/xgbRZy) - still in progress
